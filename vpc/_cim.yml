@@ -9,7 +9,7 @@ stack:
   # Define stack input parameters.
   #
   parameters:
-    KeyPairName: 'bluefineng'
+    KeyPairName: 'testing-keypair'
 
   #
   # Define stack capabilities required.
